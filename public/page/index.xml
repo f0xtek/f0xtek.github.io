@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pages on f0xtek - Cloud Offensive Notes</title>
+    <link>http://localhost:1313/page/</link>
+    <description>Recent content in Pages on f0xtek - Cloud Offensive Notes</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-gb</language>
+    <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a cloud engineer pivoting into offensive security and red teaming.&lt;/p&gt;
+&lt;p&gt;This site is my working notebook for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AWS and Kubernetes attack labs&lt;/li&gt;
+&lt;li&gt;CRTO preparation and notes&lt;/li&gt;
+&lt;li&gt;Detection engineering and purple-team ideas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Posts are written as &lt;strong&gt;attack → detection → mitigation&lt;/strong&gt; stories, not just proofs-of-concept.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

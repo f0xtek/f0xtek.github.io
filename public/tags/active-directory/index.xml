@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Active-Directory on f0xtek - Cloud Offensive Notes</title>
+    <link>http://localhost:1313/tags/active-directory/</link>
+    <description>Recent content in Active-Directory on f0xtek - Cloud Offensive Notes</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 20 Nov 2025 16:35:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/active-directory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CRTO Prep: My Study Plan</title>
+      <link>http://localhost:1313/posts/crto-prep-path/</link>
+      <pubDate>Thu, 20 Nov 2025 16:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/crto-prep-path/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Goal: become comfortable operating in a Windows/AD environment with a C2 framework, not just pass a cert.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;baseline&#34;&gt;Baseline&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;10+ years: AWS, Linux, infra/ops&lt;/li&gt;
+&lt;li&gt;Offensive: eJPT, Amazon Cloud Red Team Professional (Pwnedlabs)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;gaps-im-closing-before-crto&#34;&gt;Gaps I&amp;rsquo;m closing before CRTO&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows + Active Directory offensive tradecraft&lt;/li&gt;
+&lt;li&gt;Initial access and phishing workflows&lt;/li&gt;
+&lt;li&gt;C2 operator basics and OPSEC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prep-steps&#34;&gt;Prep steps&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Active Directory &amp;amp; Windows attacks&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;TryHackMe rooms: &lt;code&gt;Attacktive Directory&lt;/code&gt;, &lt;code&gt;Windows PrivEsc&lt;/code&gt;, &lt;code&gt;Kerberoasting&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;HackTheBox Windows domain machines&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Web foothold skills&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

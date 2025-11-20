@@ -1,0 +1,51 @@
+baseURL = "https://blog.f0xtek.com/"    # change to your GitHub Pages URL
+title = "f0xtek - Cloud Offensive Notes"
+theme = "PaperMod"
+languageCode = "en-gb"
+defaultContentLanguage = "en"
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  category = "categories"
+  tag      = "tags"
+  series   = "series"
+
+[params]
+  description = "Cloud offensive security, red teaming and detection notes by a recovering AWS engineer."
+  author = "Luke Anderson"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"   # light/dark auto
+
+  [params.homeInfoParams]
+    Title = "Cloud Offensive Notebook"
+    Content = "Offensive AWS, Kubernetes, and purple-team experiments."
+
+  [[params.socialIcons]]
+    name = "github"
+    url  = "https://github.com/f0xtek"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/landerson61/"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url  = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Series"
+    url  = "/series/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url  = "/about/"
+    weight = 3
+
